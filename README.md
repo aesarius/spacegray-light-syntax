@@ -1,6 +1,6 @@
 # Spacegray Light Syntax for Atom
 
-Port of the [Spacegray Theme](http://kkga.github.io/spacegray) Sublime Theme for Atom Syntax.
+Port of the [Spacegray Light Theme](http://kkga.github.io/spacegray) Sublime Theme for Atom Syntax.
 
 ![Screenshot](http://i.imgur.com/d5maNSZ.png)
 
