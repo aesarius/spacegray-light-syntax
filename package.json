@@ -1,7 +1,7 @@
 {
   "name": "spacegray-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Port of the Spacegray Sublime Theme for Atom Syntax",
   "repository": "https://github.com/aesarius/spacegray-light-syntax",
   "license": "MIT",
